@@ -6,3 +6,5 @@
 
 - [HowTo](./howTo/)
 - [Ideas](./Ideas/)
+- [JavaScript](./JavaScript/)
+- [WhatIs](./WhatIs/)
