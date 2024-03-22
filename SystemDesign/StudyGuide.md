@@ -1,5 +1,7 @@
 # Study Guide
 
+> Full guide: https://github.com/karanpratapsingh/system-design
+
 ## Networks
 
 - Load Balancing
