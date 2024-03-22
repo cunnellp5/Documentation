@@ -19,6 +19,7 @@
 ### Eviction Policies
 
 - LRU
+  Least Recently Used (LRU), we discard the least recently used key first.
 - LFU
 
 ### Redis
