@@ -16,6 +16,8 @@
    DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}?schema=public
    ```
 
+   (the DATABASE_URL var can be used by your backend to connect to the psql instance in Docker)
+
 2. create a `docker-compose.yml` file at the root of the project
 
 3. use image from the docker docks, i used this one
