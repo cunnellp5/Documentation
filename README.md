@@ -6,5 +6,7 @@
 
 - [HowTo](./howTo/)
 - [Ideas](./Ideas/)
+- [Issues](./Issues/)
 - [JavaScript](./JavaScript/)
+- [SystemDesign](./SystemDesign/)
 - [WhatIs](./WhatIs/)

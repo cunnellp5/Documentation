@@ -1,0 +1,3 @@
+# Issues
+
+- [zshTerminalPasteBug](./zshTerminalPasteBug.md)
