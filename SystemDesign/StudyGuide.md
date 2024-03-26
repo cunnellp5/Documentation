@@ -85,6 +85,29 @@
 
 - Indexes
 - Sharding
+
+  - is partitioning a database into smaller chunks distributed based on the algorithm that was decided upon (geographical, hash based, timestamps)
+  - typically used in systems with large **write** through put
+
+- Replication
+
+  - typically used in systems with large **read** through put
+
+  - `master-slave replication`
+    - master takes on write operations while the replications take on read-only
+      operations
+    - good for horizontal scaling
+    - good for fault tolerance by allowing reads from multiple nodes
+  - `Synchronous vs asynchronous Replication`
+    - **Sync replications** ensure data is replicated to all copies before allowing a write operation
+      - good for consistency
+      - bad for latency
+    - **Async replications** acknoledge the write operations before replicating data to copies
+      - good for low latency writes
+      - has eventual consistency
+  - `Read Replicas`
+    - are read-only copies of the database that are asynchronously replicated from the main DB. these offload read queries just like the M-s scenario
+
 - Consistent Hashing
 - Partitioning
 - CAP Theorem
