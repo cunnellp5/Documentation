@@ -4,8 +4,10 @@
 - [~ChatApp(whatsapp)](<./~ChatApp(whatsapp).md>)
 - [~FacebookMessenger](./~FacebookMessenger.md)
 - [~UberDesign](./~UberDesign.md)
+
 - [APIArchitectureStyles](./APIArchitectureStyles.md)
 - [Approach](./Approach.md)
 - [BasicComponents](./BasicComponents.md)
 - [Sharding](./Sharding.md)
+- [shotgunSystemIdeas](./shotgunSystemIdeas.md)
 - [StudyGuide](./StudyGuide.md)

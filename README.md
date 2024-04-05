@@ -4,6 +4,7 @@
 
 ### Guides:
 
+- [CSS](./CSS/)
 - [HowTo](./howTo/)
 - [Ideas](./Ideas/)
 - [Issues](./Issues/)
