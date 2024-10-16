@@ -16,3 +16,15 @@
 
 Tools:
 [https://www.tldraw.com](https://www.tldraw.com)
+
+---
+
+Accomplishments
+
+- wesbos ecommerce tutorial
+- theriversings.com
+- philcunnell.dev
+- [] WIP Cracking the Coding Interview Book
+- [] WIP The Algorithm Design Manual by Steven S. Skiena
+- [] CS50 Harvard online course
+- [] exercism exercises JS track 31/148
